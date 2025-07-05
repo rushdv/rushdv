@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: `Awesome Project`
 - 🌱 I’m learning: `Web Developing, CEH, DevSecOps, Advanced Linux`
 - 💬 Ask me about: `WordPress Security, Ethical Hacking`
-- ⚡ Fun fact: I love 🔐, 🖥️ and ☕!
+- ⚡ Fun fact: I love 📖, 🔐, 🖥️ and ☕!
 
 ---
 
