@@ -54,12 +54,10 @@
 
 <br>
 
-<h2>📈 GitHub Stats</h2>
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rushdv&theme=gotham&ring=00FF7F&currStreakLabel=00FF7F&fire=00FF7F" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&title_color=00FF7F&text_color=00FF7F&icon_color=00FF7F" />
-</div>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushdv&theme=tokyonight" height="180"/>
+</p>
 
-<br>
-
-<h3 align="center"><i>“Nothing is secure in this Universe — only undiscovered.”</i></h3>
+> “Nothing is secure in this Universe — only undiscovered.” 
