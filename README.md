@@ -56,8 +56,11 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rushdv&theme=gotham" height="180"/>
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&count_private=true" height="180"/> -->
+  <img 
+    src="https://stats-plum-nine.vercel.app/api?username=rushdv&show_icons=true&theme=dark&bg_color=30,071018,0c1b26&icon_color=00ff7f&title_color=00ff7f&text_color=b4ffe7&hide_border=true&rank_icon=github" 
+    height="190"
+  />
 </p>
 
-> “Nothing is secure in this Universe — only undiscovered.” 
+> " Stay Anonymous. Stay Secure "
+<!-- > “Nothing is secure in this Universe — only undiscovered.”  -->
