@@ -56,8 +56,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushdv&theme=gotham" height="180"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&count_private=true" height="180"/> -->
+  <img src="https://streak-stats.demolab.com?user=rushdv&theme=gotham" height="180"/>
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&count_private=true" height="180"/> -->
 </p>
 
 > “Nothing is secure in this Universe — only undiscovered.” 
