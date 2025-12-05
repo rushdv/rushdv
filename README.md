@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Welcome to My Space ⚡</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Cybersecurity+Researcher;Always+Exploring+New+Things+🚀&center=true&color=00FF7F&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Developer;Full-Stack+Developer;Cybersecurity+Enthusiast;Cybersecurity+Researcher;Always+Exploring+New+Things+🚀&center=true&color=00FF7F&width=650&height=45">
 </div>
 
 <br>
