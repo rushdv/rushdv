@@ -9,7 +9,7 @@ C · C++ · Python · JavaScript · Linux
 Git · Bash · Networking Basics · Operating Systems
 
 
-### GitHub Stats
+<!-- ### GitHub Stats -->
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark" />
 </p>
