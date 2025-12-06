@@ -14,11 +14,9 @@ Git · Bash · Networking Basics · Operating Systems
 
 ### GitHub Stats
 <p align="center">
-<img 
-  src="https://stats-plum-nine.vercel.app/api?username=rushdv&show_icons=true&theme=dark&rank_icon=github&hide_border=true" 
-  height="190"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark" />
 </p>
 
 > " Stay Anonymous. Stay Secure "
 <!-- > “Nothing is secure in this Universe — only undiscovered.”  -->
+ 
