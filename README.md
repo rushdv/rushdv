@@ -1,9 +1,8 @@
-<h1 align="center">My Space</h1>
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:7c3aed&height=200&section=header&text=My%20Space&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+<!-- <h1 align="center">My Space</h1>
 <p align="center">
   Developer interested in systems, security-aware programming, and modern technologies.
-</p>
-
-
+</p> -->
 ### Technologies
 HTML · CSS · JavaScript · C · C++ · Python · Linux · Kali Linux · Nmap · Wireshark · MySQL 
 Git · Bash · Networking Basics · Operating Systems
