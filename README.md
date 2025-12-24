@@ -1,4 +1,8 @@
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&height=200&section=header&text=My%20Space&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&height=200&section=header&text=My%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+
+## 👋 Hi, I'm Shihab 
+**Computer Science Student | Full-Stack Developer**  
+Computer Science Student | Full-Stack Developer focused on clean, scalable, and secure systems.
 <!-- <h1 align="center">My Space</h1>
 <p align="center">
   Developer interested in systems, security-aware programming, and modern technologies.
@@ -6,7 +10,7 @@
 <!-- ### Technologies
 HTML · CSS · JavaScript · C · C++ · Python · Linux · Kali Linux · Nmap · Wireshark · MySQL 
 Git · Bash · Networking Basics · Operating Systems -->
-### Tech Stack
+## Tech Stack
 <p align="center">
   <!-- Frontend & Styling -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
