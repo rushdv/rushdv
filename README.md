@@ -7,7 +7,6 @@
 HTML · CSS · JavaScript · C · C++ · Python · Linux · Kali Linux · Nmap · Wireshark · MySQL 
 Git · Bash · Networking Basics · Operating Systems -->
 ### Tech Stack
-
 <p align="center">
   <!-- Frontend & Styling -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -50,7 +49,6 @@ Git · Bash · Networking Basics · Operating Systems -->
 ## GitHub Stats
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark&area=true&color=0969da" width="100%" />
-<img src="https://metrics.lecoq.io/rushdv?template=classic&base=activity&config.timezone=Asia/Dhaka" />
 </p>
 
 > " Stay Anonymous. Stay Secure "
