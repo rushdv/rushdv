@@ -53,4 +53,5 @@ Git · Bash · Networking Basics · Operating Systems -->
 
 > " Stay Anonymous. Stay Secure "
 <!-- > “Nothing is secure in this Universe — only undiscovered.”  -->
- 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&reversal=true&height=120&section=footer)
