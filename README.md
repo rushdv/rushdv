@@ -50,8 +50,7 @@ Git · Bash · Networking Basics · Operating Systems -->
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark&area=true&color=0969da" width="100%" />
 </p>
+<!-- > " Stay Anonymous. Stay Secure "
+> “Nothing is secure in this Universe — only undiscovered.”  -->
 
-> " Stay Anonymous. Stay Secure "
-<!-- > “Nothing is secure in this Universe — only undiscovered.”  -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&reversal=true&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&reversal=true&height=120&section=footer&desc=Stay%20Anonymous.%20Stay%20Secure.&descAlignY=75&fontSize=18&fontColor=6b7280)
