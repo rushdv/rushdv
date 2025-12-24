@@ -1,4 +1,4 @@
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:7c3aed&height=200&section=header&text=My%20Space&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&height=200&section=header&text=My%20Space&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
 <!-- <h1 align="center">My Space</h1>
 <p align="center">
   Developer interested in systems, security-aware programming, and modern technologies.
