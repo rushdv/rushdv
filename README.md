@@ -7,9 +7,7 @@ Computer Science Student | Full-Stack Developer focused on clean, scalable, and 
 <p align="center">
   Developer interested in systems, security-aware programming, and modern technologies.
 </p> -->
-<!-- ### Technologies
-HTML · CSS · JavaScript · C · C++ · Python · Linux · Kali Linux · Nmap · Wireshark · MySQL 
-Git · Bash · Networking Basics · Operating Systems -->
+
 ## Tech Stack
 <p align="center">
   <!-- Frontend & Styling -->
