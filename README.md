@@ -1,8 +1,8 @@
 ![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&height=200&section=header&text=My%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
 
 ## 👋 Hi, I'm Shihab 
-**Computer Science Student | Full-Stack Developer**  
-Computer Science Student | Full-Stack Developer focused on clean, scalable, and secure systems.
+**Computer Science Student | Full-Stack Developer | Security-Aware Programmer**  
+I'm a Computer Science student passionate about building clean, scalable, and secure software system. I work with modern full-stack technologies while maintaining a strong interest in cybersecurity, system-level programming, and secure coding practices....
 <!-- <h1 align="center">My Space</h1>
 <p align="center">
   Developer interested in systems, security-aware programming, and modern technologies.
