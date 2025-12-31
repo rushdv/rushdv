@@ -1,4 +1,4 @@
-![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&height=200&section=header&text=My%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+![Profile Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=200&section=header&text=My%20Space&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
 
@@ -65,4 +65,4 @@ I'm a Computer Science student passionate about building clean, scalable, and se
 <!-- > " Stay Anonymous. Stay Secure "
 > “Nothing is secure in this Universe — only undiscovered.”  -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:4b5563&reversal=true&height=120&section=footer&desc=Stay%20Anonymous.%20Stay%20Secure.&descAlignY=75&fontSize=18&fontColor=6b7280)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&reversal=true&height=120&section=footer&desc=Stay%20Anonymous.%20Stay%20Secure.&descAlignY=75&fontSize=18&fontColor=9ca3af)
