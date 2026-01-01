@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# I'm Shihab
+# Hi! I'm Shihab
 
 **Computer Science Student | Full-Stack Developer | Security Enthusiast**
 
@@ -62,6 +62,7 @@ I'm a Computer Science student passionate about building clean, scalable, and se
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark&area=true&color=0969da" width="100%" />
 </p>
+
 <!-- > " Stay Anonymous. Stay Secure "
 > “Nothing is secure in this Universe — only undiscovered.”  -->
 
