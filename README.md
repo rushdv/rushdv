@@ -13,10 +13,7 @@ Building clean, scalable, and secure systems with modern technologies.
 <!-- ## 👋 Hi, I'm Shihab 
 **Computer Science Student | Full-Stack Developer | Security-Aware Programmer**  
 I'm a Computer Science student passionate about building clean, scalable, and secure software system. I work with modern full-stack technologies while maintaining a strong interest in cybersecurity, system-level programming, and secure coding practice.... -->
-<!-- <h1 align="center">My Space</h1>
-<p align="center">
-  Developer interested in systems, security-aware programming, and modern technologies.
-</p> -->
+
 
 ## Tech Stack
 <p align="center">
