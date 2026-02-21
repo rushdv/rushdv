@@ -21,7 +21,7 @@ I'm a **Computer Science Student** passionate about building clean, scalable, an
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Surge](https://img.shields.io/badge/Surge-47318F?style=flat&logo=surge&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
 
 ---
-
+ 
 ### 📂 Featured Projects
 
 | **Project** | **Description** |
