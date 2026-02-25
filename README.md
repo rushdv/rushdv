@@ -37,10 +37,7 @@ I'm a **Computer Science Student** passionate about building clean, scalable, an
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushdv&hide_border=true&theme=github-dark&area=true&color=0969da" width="100%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushdv&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushdv&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&reversal=true&height=100&section=footer&text=Stay%20Anonymous.%20Stay%20Secure.&fontSize=20&fontColor=9ca3af&fontAlignY=50)
 
