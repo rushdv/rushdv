@@ -5,7 +5,7 @@
 ### 🚀 About Me
 I'm a **Computer Science Student** passionate about building clean, scalable, and secure software systems. I bridge the gap between **Full-Stack Development** and **Cybersecurity**, creating robust applications with modern technologies.
 
----
+--- 
 
 ### 🛠️ Tech Stack
 
