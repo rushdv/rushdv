@@ -3,6 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Hey%2C%20I'm%20Shihab%20👋&fontSize=45&fontAlignY=40&fontColor=58a6ff&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Security%20Enthusiast&descFontSize=16&descAlignY=65&descAlign=50&animation=fadeIn)
 
 <br/>
+<<<<<<< HEAD
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+secure+software;Full-Stack+Dev+meets+Cybersecurity;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -49,7 +50,58 @@ motto: "Build it clean. Make it secure."
 </table>
 
 <br/>
+=======
+>>>>>>> 28767ea ( Add profile views counter badge)
 
+<<<<<<< HEAD
+=======
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+secure+software;Full-Stack+Dev+meets+Cybersecurity;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- About -->
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Shihab
+role: CS Student & Full-Stack Developer
+focus:
+  - Web Application Development
+  - Cybersecurity & Penetration Testing
+  - Network Analysis & Monitoring
+currently_learning:
+  - Offensive Security
+  - System Design
+  - Cloud Infrastructure
+motto: "Build it clean. Make it secure."
+```
+
+</td>
+<td valign="top" width="45%">
+
+### 🎯 Current Focus
+
+- 🔭 Building **production-ready** web apps
+- 🛡️ Deepening skills in **offensive security**
+- 🌐 Exploring **network analysis** tools
+- 📚 Studying **system design** patterns
+- 🚀 Open to **collaborations** & **internships**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rushdv&color=58a6ff&style=flat&label=Profile+Views)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+>>>>>>> fe06d3c (chore: Update README and add VS Code settings)
 ---
 
 ### 🛠️ Tech Stack
