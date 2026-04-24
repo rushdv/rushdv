@@ -21,30 +21,15 @@
 
 <div align="center">
 
-#### 💻 Languages & Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,go,html,css" />
-</p>
-
-#### 🌐 Web Development & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,figma" />
-</p>
-
-#### ⚙️ Backend & Infrastructure
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mongodb,mysql,redis" />
-</p>
-
-#### 🛡️ Security & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,bash,linux,arch,debian,ubuntu" />
-</p>
-
-#### 🚀 Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,aws,vercel,netlify,vscode,postman" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,go,c" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,sass,figma" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,netlify" /> |
+| **Security** | <img src="https://skillicons.dev/icons?i=kali,linux,arch,debian,bash" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman" /> |
 
 </div>
 
@@ -88,4 +73,3 @@
 </p>
 
 </div>
-
